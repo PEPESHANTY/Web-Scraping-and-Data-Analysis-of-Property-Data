@@ -91,7 +91,7 @@ The dataset used (`property_sales.csv`) contains:
 
 3. Ensure the property_sales.csv file is in the same directory before running the ABT notebook.
 
-💬 Discussion & Learnings
+## 💬 Discussion & Learnings
 ✅ Challenges Faced
 Uneven date formats required custom regex preprocessing.
 
@@ -99,7 +99,7 @@ Categorical values like "Unknown" in columns such as Garage required thoughtful 
 
 Some outliers in price (e.g., > €1.5M) skewed average-based visualizations.
 
-💡 Key Insights
+## 💡 Key Insights
 Property sales increased each year, peaking in 2024.
 
 Summer months (May–July) consistently show higher sales volume.
@@ -108,14 +108,14 @@ Properties with gardens and garages tend to fetch higher median prices.
 
 First-time buyers tend to purchase slightly cheaper properties than others.
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 Add predictive modeling (e.g., regression) for estimating property prices.
 
 Enrich the dataset using external APIs (e.g., economic indicators, interest rates).
 
 Perform geospatial analysis using tools like geopandas or folium.
 
-🔗 Related Resources
+## 🔗 Related Resources
 Pandas Documentation
 
 Seaborn Gallery
@@ -124,7 +124,7 @@ Matplotlib Official
 
 Kaggle: Real Estate Datasets
 
-📌 Author
+## 📌 Author
 Shantanu Ramesh Bhute
 LinkedIn | GitHub
 

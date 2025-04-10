@@ -126,6 +126,6 @@ Kaggle: Real Estate Datasets
 
 ## 📌 Author
 Shantanu Ramesh Bhute
-LinkedIn | GitHub
+
 
 
